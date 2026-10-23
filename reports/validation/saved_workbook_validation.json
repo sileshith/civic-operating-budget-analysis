@@ -1,0 +1,14 @@
+{
+  "saved_workbook_formula_errors": [],
+  "saved_formula_cells": 227,
+  "sheet_count": 5,
+  "native_charts": 1,
+  "native_chart_references": [
+    "'Summary'!$J$27:$J$31",
+    "'Summary'!$K$27:$K$31",
+    "'Summary'!$J$27:$J$31",
+    "'Summary'!$L$27:$L$31"
+  ],
+  "saved_forecast_cells_compared_with_sql": 75,
+  "base_sql_export_case": "Base"
+}

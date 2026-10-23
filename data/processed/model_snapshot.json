@@ -1,0 +1,3888 @@
+{
+  "records": [
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7585329
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7778145
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7688955
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7751878
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7719085
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7566473
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7723023
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7380823
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7794368
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7832542
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7245258
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7600000,
+      "actual_cents": 7590121
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1560000,
+      "actual_cents": 1535411
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1560000,
+      "actual_cents": 1563299
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1320000,
+      "actual_cents": 1300861
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1080000,
+      "actual_cents": 1092867
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1020000,
+      "actual_cents": 1002852
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 960000,
+      "actual_cents": 940936
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 960000,
+      "actual_cents": 1005657
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1020000,
+      "actual_cents": 1023737
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1140000,
+      "actual_cents": 1165832
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1200000,
+      "actual_cents": 1202665
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1260000,
+      "actual_cents": 1318176
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1320000,
+      "actual_cents": 1319707
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5887689
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5990493
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5699377
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5814612
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5712512
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5794996
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5821469
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5776574
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5877159
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5563517
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5922155
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 5760000,
+      "actual_cents": 5605047
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1458062
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1483784
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1430560
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1424974
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1443947
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1455205
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1444985
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1399705
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1462655
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1410477
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1456139
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1440000,
+      "actual_cents": 1495907
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 728000,
+      "actual_cents": 716347
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 728000,
+      "actual_cents": 748302
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 616000,
+      "actual_cents": 619933
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 504000,
+      "actual_cents": 509317
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 476000,
+      "actual_cents": 485338
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 448000,
+      "actual_cents": 463227
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 448000,
+      "actual_cents": 432115
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 476000,
+      "actual_cents": 489861
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 532000,
+      "actual_cents": 542971
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 560000,
+      "actual_cents": 541564
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 588000,
+      "actual_cents": 582334
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 616000,
+      "actual_cents": 622291
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24809778
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24247051
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24384976
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24506039
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 25312245
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24182409
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 25989125
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24596619
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24181424
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 24929501
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 25896630
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 24800000,
+      "actual_cents": 26052203
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 6760000,
+      "actual_cents": 6599864
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 6760000,
+      "actual_cents": 6769441
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5720000,
+      "actual_cents": 5609938
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4680000,
+      "actual_cents": 4572455
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4420000,
+      "actual_cents": 4366064
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4160000,
+      "actual_cents": 4181647
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4160000,
+      "actual_cents": 4301339
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4420000,
+      "actual_cents": 4541876
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4940000,
+      "actual_cents": 5052041
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5200000,
+      "actual_cents": 5406080
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5460000,
+      "actual_cents": 5690412
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5720000,
+      "actual_cents": 5620843
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 18288111
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17269685
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17898971
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 18308269
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17487872
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17238819
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17931980
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 18023177
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17619474
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 18228042
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 17025139
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 17600000,
+      "actual_cents": 16936461
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8531149
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8420492
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8552472
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8575296
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8062296
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8190888
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8694612
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8595842
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8450313
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8663030
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8134079
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8400000,
+      "actual_cents": 8433531
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 4160000,
+      "actual_cents": 4296094
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 4160000,
+      "actual_cents": 4162202
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3520000,
+      "actual_cents": 3508287
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2880000,
+      "actual_cents": 2933990
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2720000,
+      "actual_cents": 2776307
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2560000,
+      "actual_cents": 2561490
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2560000,
+      "actual_cents": 2579324
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2720000,
+      "actual_cents": 2723122
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3040000,
+      "actual_cents": 3040852
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3200000,
+      "actual_cents": 3311203
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3360000,
+      "actual_cents": 3227556
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3520000,
+      "actual_cents": 3471573
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14507673
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14543744
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14146076
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14040060
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14121790
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14209888
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14909580
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14474543
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14862523
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14682751
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14902120
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 14400000,
+      "actual_cents": 14263252
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 9360000,
+      "actual_cents": 9764915
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 9360000,
+      "actual_cents": 9413734
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7920000,
+      "actual_cents": 7844246
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6480000,
+      "actual_cents": 6769689
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6120000,
+      "actual_cents": 6035241
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 5760000,
+      "actual_cents": 5798567
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 5760000,
+      "actual_cents": 5881440
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6120000,
+      "actual_cents": 6226302
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6840000,
+      "actual_cents": 6839618
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7200000,
+      "actual_cents": 7192015
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7560000,
+      "actual_cents": 7346104
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7920000,
+      "actual_cents": 7720129
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13611110
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13919687
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 14124489
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13629351
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13660364
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13560121
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13976158
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13225748
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13149284
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13809380
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13436419
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 13600000,
+      "actual_cents": 13913889
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4321746
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4280868
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4491214
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4479066
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4506236
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4518894
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4393113
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4530660
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4237860
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4470187
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4421073
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4400000,
+      "actual_cents": 4413083
+    },
+    {
+      "month_start": "2024-07-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3640000,
+      "actual_cents": 3654386
+    },
+    {
+      "month_start": "2024-08-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3640000,
+      "actual_cents": 3716797
+    },
+    {
+      "month_start": "2024-09-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3080000,
+      "actual_cents": 3209626
+    },
+    {
+      "month_start": "2024-10-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2520000,
+      "actual_cents": 2525507
+    },
+    {
+      "month_start": "2024-11-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2380000,
+      "actual_cents": 2374280
+    },
+    {
+      "month_start": "2024-12-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2240000,
+      "actual_cents": 2242121
+    },
+    {
+      "month_start": "2025-01-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2240000,
+      "actual_cents": 2178152
+    },
+    {
+      "month_start": "2025-02-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2380000,
+      "actual_cents": 2329897
+    },
+    {
+      "month_start": "2025-03-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2660000,
+      "actual_cents": 2676152
+    },
+    {
+      "month_start": "2025-04-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2800000,
+      "actual_cents": 2710733
+    },
+    {
+      "month_start": "2025-05-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2940000,
+      "actual_cents": 3056495
+    },
+    {
+      "month_start": "2025-06-01",
+      "fiscal_year": 2025,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3080000,
+      "actual_cents": 3093854
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7626457
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 8183781
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7916588
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7927077
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7687145
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 8054256
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7632204
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7769738
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7868221
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 8033955
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916667,
+      "actual_cents": 7722752
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "ALLOC",
+      "budget_cents": 7916663,
+      "actual_cents": 7627826
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1625000,
+      "actual_cents": 1721285
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1625000,
+      "actual_cents": 1703363
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1375000,
+      "actual_cents": 1404953
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1125000,
+      "actual_cents": 1130955
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1062500,
+      "actual_cents": 1078225
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1000000,
+      "actual_cents": 992244
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1000000,
+      "actual_cents": 1013918
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1062500,
+      "actual_cents": 1122808
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1187500,
+      "actual_cents": 1260863
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1250000,
+      "actual_cents": 1307989
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1312500,
+      "actual_cents": 1346683
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "FEES",
+      "budget_cents": 1375000,
+      "actual_cents": 1366714
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6238304
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6133594
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6088666
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6168095
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6128319
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6188074
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 5822154
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6246782
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6078415
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 6239588
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 5900837
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "PAY",
+      "budget_cents": 6000000,
+      "actual_cents": 5847172
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1668340
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1662905
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1722303
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1707002
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1646871
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1681928
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1674613
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1717610
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1637708
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1696046
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1675978
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "CONTRACT",
+      "budget_cents": 1500000,
+      "actual_cents": 1668696
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 758333,
+      "actual_cents": 732733
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 758333,
+      "actual_cents": 754299
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 641667,
+      "actual_cents": 618329
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 525000,
+      "actual_cents": 526655
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 495833,
+      "actual_cents": 486503
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 466667,
+      "actual_cents": 445061
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 466667,
+      "actual_cents": 440539
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 495833,
+      "actual_cents": 478590
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 554167,
+      "actual_cents": 524201
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 583333,
+      "actual_cents": 575088
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 612500,
+      "actual_cents": 586048
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "FIN",
+      "account_id": "MATERIAL",
+      "budget_cents": 641667,
+      "actual_cents": 621954
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 26151627
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 26218485
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 25126809
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 25212519
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 24906786
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 24879855
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 26614648
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 26423500
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 25779018
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 24723104
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833333,
+      "actual_cents": 25124312
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "ALLOC",
+      "budget_cents": 25833337,
+      "actual_cents": 25739337
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 7041667,
+      "actual_cents": 7283656
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 7041667,
+      "actual_cents": 6961710
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5958333,
+      "actual_cents": 6240375
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4875000,
+      "actual_cents": 5102598
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4604167,
+      "actual_cents": 4672768
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4333333,
+      "actual_cents": 4305978
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4333333,
+      "actual_cents": 4479689
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 4604167,
+      "actual_cents": 4704550
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5145833,
+      "actual_cents": 5149694
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5416667,
+      "actual_cents": 5396649
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5687500,
+      "actual_cents": 5828838
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "FEES",
+      "budget_cents": 5958333,
+      "actual_cents": 6173495
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19383514
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19378512
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19392439
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19643958
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 20334475
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 18826325
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 18993810
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 20226569
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19572171
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19002514
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333333,
+      "actual_cents": 19514007
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "PAY",
+      "budget_cents": 18333337,
+      "actual_cents": 18931706
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8992523
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 9182929
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 9014324
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 9072332
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 9076059
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8774856
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8723037
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8884020
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8721175
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 9200178
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8990563
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "CONTRACT",
+      "budget_cents": 8750000,
+      "actual_cents": 8993004
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 4333333,
+      "actual_cents": 4422763
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 4333333,
+      "actual_cents": 4529260
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3666667,
+      "actual_cents": 3699591
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3000000,
+      "actual_cents": 3139789
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2833333,
+      "actual_cents": 2993862
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2666667,
+      "actual_cents": 2772427
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2666667,
+      "actual_cents": 2797091
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 2833333,
+      "actual_cents": 2927411
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3166667,
+      "actual_cents": 3258301
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3333333,
+      "actual_cents": 3368083
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3500000,
+      "actual_cents": 3716351
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PW",
+      "account_id": "MATERIAL",
+      "budget_cents": 3666667,
+      "actual_cents": 3975071
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14406964
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 15484191
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14858865
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14819012
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14533649
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14393552
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 15381046
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 15297619
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14381568
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 15389885
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14710527
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "ALLOC",
+      "budget_cents": 15000000,
+      "actual_cents": 14543122
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 9750000,
+      "actual_cents": 9148273
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 9750000,
+      "actual_cents": 9516620
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 8250000,
+      "actual_cents": 7734750
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6750000,
+      "actual_cents": 6427533
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6375000,
+      "actual_cents": 6202923
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6000000,
+      "actual_cents": 5850141
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6000000,
+      "actual_cents": 5869136
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 6375000,
+      "actual_cents": 6072527
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7125000,
+      "actual_cents": 6759254
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7500000,
+      "actual_cents": 7074263
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 7875000,
+      "actual_cents": 7597158
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "FEES",
+      "budget_cents": 8250000,
+      "actual_cents": 8147422
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14157453
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14963052
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14702677
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14580346
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14030701
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14308803
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14492541
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14451651
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14730143
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14433833
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166667,
+      "actual_cents": 14432488
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "PAY",
+      "budget_cents": 14166663,
+      "actual_cents": 14966312
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4869585
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4878395
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4804866
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4805592
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4605834
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4680335
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4813157
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4731963
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4764019
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4813526
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583333,
+      "actual_cents": 4614333
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "CONTRACT",
+      "budget_cents": 4583337,
+      "actual_cents": 4818395
+    },
+    {
+      "month_start": "2025-07-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3791667,
+      "actual_cents": 4387595
+    },
+    {
+      "month_start": "2025-08-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3791667,
+      "actual_cents": 4445892
+    },
+    {
+      "month_start": "2025-09-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3208333,
+      "actual_cents": 3678571
+    },
+    {
+      "month_start": "2025-10-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2625000,
+      "actual_cents": 2959259
+    },
+    {
+      "month_start": "2025-11-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2479167,
+      "actual_cents": 2975663
+    },
+    {
+      "month_start": "2025-12-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2333333,
+      "actual_cents": 2621142
+    },
+    {
+      "month_start": "2026-01-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2333333,
+      "actual_cents": 2698215
+    },
+    {
+      "month_start": "2026-02-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2479167,
+      "actual_cents": 2775802
+    },
+    {
+      "month_start": "2026-03-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2770833,
+      "actual_cents": 3336803
+    },
+    {
+      "month_start": "2026-04-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 2916667,
+      "actual_cents": 3510442
+    },
+    {
+      "month_start": "2026-05-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3062500,
+      "actual_cents": 3488643
+    },
+    {
+      "month_start": "2026-06-01",
+      "fiscal_year": 2026,
+      "department_id": "PR",
+      "account_id": "MATERIAL",
+      "budget_cents": 3208333,
+      "actual_cents": 3721973
+    }
+  ],
+  "rates": [
+    {
+      "scenario": "Base",
+      "fiscal_year": 2027,
+      "account_id": "ALLOC",
+      "rate_ppm": 25000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2027,
+      "account_id": "FEES",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2027,
+      "account_id": "PAY",
+      "rate_ppm": 45000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2027,
+      "account_id": "CONTRACT",
+      "rate_ppm": 40000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2027,
+      "account_id": "MATERIAL",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2028,
+      "account_id": "ALLOC",
+      "rate_ppm": 25000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2028,
+      "account_id": "FEES",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2028,
+      "account_id": "PAY",
+      "rate_ppm": 45000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2028,
+      "account_id": "CONTRACT",
+      "rate_ppm": 40000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2028,
+      "account_id": "MATERIAL",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2029,
+      "account_id": "ALLOC",
+      "rate_ppm": 25000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2029,
+      "account_id": "FEES",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2029,
+      "account_id": "PAY",
+      "rate_ppm": 45000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2029,
+      "account_id": "CONTRACT",
+      "rate_ppm": 40000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2029,
+      "account_id": "MATERIAL",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2030,
+      "account_id": "ALLOC",
+      "rate_ppm": 25000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2030,
+      "account_id": "FEES",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2030,
+      "account_id": "PAY",
+      "rate_ppm": 45000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2030,
+      "account_id": "CONTRACT",
+      "rate_ppm": 40000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2030,
+      "account_id": "MATERIAL",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2031,
+      "account_id": "ALLOC",
+      "rate_ppm": 25000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2031,
+      "account_id": "FEES",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2031,
+      "account_id": "PAY",
+      "rate_ppm": 45000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2031,
+      "account_id": "CONTRACT",
+      "rate_ppm": 40000
+    },
+    {
+      "scenario": "Base",
+      "fiscal_year": 2031,
+      "account_id": "MATERIAL",
+      "rate_ppm": 30000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2027,
+      "account_id": "ALLOC",
+      "rate_ppm": 5000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2027,
+      "account_id": "FEES",
+      "rate_ppm": 10000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2027,
+      "account_id": "PAY",
+      "rate_ppm": 55000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2027,
+      "account_id": "CONTRACT",
+      "rate_ppm": 60000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2027,
+      "account_id": "MATERIAL",
+      "rate_ppm": 50000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2028,
+      "account_id": "ALLOC",
+      "rate_ppm": 5000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2028,
+      "account_id": "FEES",
+      "rate_ppm": 10000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2028,
+      "account_id": "PAY",
+      "rate_ppm": 55000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2028,
+      "account_id": "CONTRACT",
+      "rate_ppm": 60000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2028,
+      "account_id": "MATERIAL",
+      "rate_ppm": 50000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2029,
+      "account_id": "ALLOC",
+      "rate_ppm": 5000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2029,
+      "account_id": "FEES",
+      "rate_ppm": 10000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2029,
+      "account_id": "PAY",
+      "rate_ppm": 55000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2029,
+      "account_id": "CONTRACT",
+      "rate_ppm": 60000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2029,
+      "account_id": "MATERIAL",
+      "rate_ppm": 50000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2030,
+      "account_id": "ALLOC",
+      "rate_ppm": 5000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2030,
+      "account_id": "FEES",
+      "rate_ppm": 10000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2030,
+      "account_id": "PAY",
+      "rate_ppm": 55000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2030,
+      "account_id": "CONTRACT",
+      "rate_ppm": 60000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2030,
+      "account_id": "MATERIAL",
+      "rate_ppm": 50000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2031,
+      "account_id": "ALLOC",
+      "rate_ppm": 5000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2031,
+      "account_id": "FEES",
+      "rate_ppm": 10000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2031,
+      "account_id": "PAY",
+      "rate_ppm": 55000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2031,
+      "account_id": "CONTRACT",
+      "rate_ppm": 60000
+    },
+    {
+      "scenario": "Constrained",
+      "fiscal_year": 2031,
+      "account_id": "MATERIAL",
+      "rate_ppm": 50000
+    }
+  ],
+  "departments": [
+    [
+      "FIN",
+      "Finance"
+    ],
+    [
+      "PW",
+      "Public Works"
+    ],
+    [
+      "PR",
+      "Parks and Recreation"
+    ]
+  ],
+  "accounts": [
+    [
+      "ALLOC",
+      "Assigned operating support",
+      "Funding"
+    ],
+    [
+      "FEES",
+      "Service fees",
+      "Funding"
+    ],
+    [
+      "PAY",
+      "Personnel",
+      "Expense"
+    ],
+    [
+      "CONTRACT",
+      "Contract services",
+      "Expense"
+    ],
+    [
+      "MATERIAL",
+      "Materials",
+      "Expense"
+    ]
+  ],
+  "variance": [
+    {
+      "department_name": "Public Works",
+      "budget_usd": 3650000.0,
+      "actual_usd": 3824250.0,
+      "favorable_variance_usd": -174250.0,
+      "favorable_variance_pct": -0.04773972602739726,
+      "overspend_rank": 1
+    },
+    {
+      "department_name": "Parks and Recreation",
+      "budget_usd": 2600000.0,
+      "actual_usd": 2720500.0,
+      "favorable_variance_usd": -120500.0,
+      "favorable_variance_pct": -0.04634615384615385,
+      "overspend_rank": 2
+    },
+    {
+      "department_name": "Finance",
+      "budget_usd": 970000.0,
+      "actual_usd": 1000300.0,
+      "favorable_variance_usd": -30300.0,
+      "favorable_variance_pct": -0.031237113402061856,
+      "overspend_rank": 3
+    }
+  ],
+  "forecast": [
+    {
+      "fiscal_year": 2027,
+      "department_name": "Finance",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 96401250
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Finance",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 20966400
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Finance",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 15913500
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Finance",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 6993700
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Finance",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 76368600
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Parks and Recreation",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 182655000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Parks and Recreation",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 59488000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Parks and Recreation",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 88992000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Parks and Recreation",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 41818000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Parks and Recreation",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 182091250
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Public Works",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 314572500
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Public Works",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 111930000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Public Works",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 68289000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Public Works",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 42848000
+    },
+    {
+      "fiscal_year": 2027,
+      "department_name": "Public Works",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 243694000
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Finance",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 98811281
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Finance",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 21805056
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Finance",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 16390905
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Finance",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 7203511
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Finance",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 79805187
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Parks and Recreation",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 187221375
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Parks and Recreation",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 61867520
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Parks and Recreation",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 91661760
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Parks and Recreation",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 43072540
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Parks and Recreation",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 190285356
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Public Works",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 322436813
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Public Works",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 116407200
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Public Works",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 70337670
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Public Works",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 44133440
+    },
+    {
+      "fiscal_year": 2028,
+      "department_name": "Public Works",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 254660230
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Finance",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 101281563
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Finance",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 22677258
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Finance",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 16882632
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Finance",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 7419616
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Finance",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 83396420
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Parks and Recreation",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 191901909
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Parks and Recreation",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 64342221
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Parks and Recreation",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 94411613
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Parks and Recreation",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 44364716
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Parks and Recreation",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 198848197
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Public Works",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 330497733
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Public Works",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 121063488
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Public Works",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 72447800
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Public Works",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 45457443
+    },
+    {
+      "fiscal_year": 2029,
+      "department_name": "Public Works",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 266119940
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Finance",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 103813602
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Finance",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 23584348
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Finance",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 17389111
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Finance",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 7642204
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Finance",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 87149259
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Parks and Recreation",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 196699457
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Parks and Recreation",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 66915910
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Parks and Recreation",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 97243961
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Parks and Recreation",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 45695657
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Parks and Recreation",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 207796366
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Public Works",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 338760176
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Public Works",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 125906028
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Public Works",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 74621234
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Public Works",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 46821166
+    },
+    {
+      "fiscal_year": 2030,
+      "department_name": "Public Works",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 278095337
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Finance",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 106408942
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Finance",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 24527722
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Finance",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 17910784
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Finance",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 7871470
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Finance",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 91070976
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Parks and Recreation",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 201616943
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Parks and Recreation",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 69592546
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Parks and Recreation",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 100161280
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Parks and Recreation",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 47066527
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Parks and Recreation",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 217147202
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Public Works",
+      "account_id": "ALLOC",
+      "account_name": "Assigned operating support",
+      "flow_type": "Funding",
+      "amount_cents": 347229180
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Public Works",
+      "account_id": "CONTRACT",
+      "account_name": "Contract services",
+      "flow_type": "Expense",
+      "amount_cents": 130942269
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Public Works",
+      "account_id": "FEES",
+      "account_name": "Service fees",
+      "flow_type": "Funding",
+      "amount_cents": 76859871
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Public Works",
+      "account_id": "MATERIAL",
+      "account_name": "Materials",
+      "flow_type": "Expense",
+      "amount_cents": 48225801
+    },
+    {
+      "fiscal_year": 2031,
+      "department_name": "Public Works",
+      "account_id": "PAY",
+      "account_name": "Personnel",
+      "flow_type": "Expense",
+      "amount_cents": 290609627
+    }
+  ],
+  "annual": [
+    {
+      "fiscal_year": 2027,
+      "funding_cents": 766823250,
+      "expense_cents": 786197950,
+      "gap_cents": -19374700
+    },
+    {
+      "fiscal_year": 2028,
+      "funding_cents": 786859804,
+      "expense_cents": 819240040,
+      "gap_cents": -32380236
+    },
+    {
+      "fiscal_year": 2029,
+      "funding_cents": 807423250,
+      "expense_cents": 853689299,
+      "gap_cents": -46266049
+    },
+    {
+      "fiscal_year": 2030,
+      "funding_cents": 828527541,
+      "expense_cents": 889606275,
+      "gap_cents": -61078734
+    },
+    {
+      "fiscal_year": 2031,
+      "funding_cents": 850187000,
+      "expense_cents": 927054140,
+      "gap_cents": -76867140
+    }
+  ],
+  "scenario": "Base"
+}

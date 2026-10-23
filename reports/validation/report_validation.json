@@ -1,0 +1,8 @@
+{
+  "report": "Civic_Operating_Budget_Analysis_Report.pdf",
+  "pages": 4,
+  "scenario": "Base",
+  "source_monthly_records": 360,
+  "generated_from": "read-only SQLite",
+  "date": "2026-10-23"
+}

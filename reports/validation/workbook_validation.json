@@ -1,0 +1,36 @@
+{
+  "tests": [
+    {
+      "case": "Base",
+      "account_year_results_verified": 75,
+      "baseline_actuals_unchanged": true
+    },
+    {
+      "case": "Constrained",
+      "account_year_results_verified": 75,
+      "baseline_actuals_unchanged": true
+    },
+    {
+      "test": "Later-year personnel assumption change",
+      "changed_forecast": true
+    },
+    {
+      "test": "Blank selected driver",
+      "result": "Unavailable result propagated"
+    }
+  ],
+  "review_differences": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "native_excel_recalculation_tested": false,
+  "engine": "artifact-tool authoring engine",
+  "sheet_count": 5,
+  "chart_count": 1
+}

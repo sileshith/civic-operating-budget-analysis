@@ -1,0 +1,4 @@
+department_name,budget_usd,actual_usd,favorable_variance_usd,favorable_variance_pct,overspend_rank
+Public Works,3650000.0,3824250.0,-174250.0,-0.04773972602739726,1
+Parks and Recreation,2600000.0,2720500.0,-120500.0,-0.04634615384615385,2
+Finance,970000.0,1000300.0,-30300.0,-0.031237113402061856,3

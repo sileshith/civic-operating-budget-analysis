@@ -1,0 +1,14 @@
+{
+  "generator_seed": 407409,
+  "synthetic": true,
+  "monthly_records": 360,
+  "fiscal_calendar": "July 1\u2013June 30; fiscal year labeled by ending year",
+  "export_scenario": "Base",
+  "sha256": {
+    "accounts.csv": "0476358020c0ac8a4691f7fa9308ada78aaca13df7b83b176aa29fb37539be7e",
+    "departments.csv": "056d7590be48007b55927c78a6a3a4971ac12dee656fbaa0c4546a7c2b9922aa",
+    "forecast_rates.csv": "c4246843222a7bc68368edd4f64c3da25eef84c24253ad4c533e3cc96d17489c",
+    "monthly_financials.csv": "7498269139531860fb12e6a761c8c372c0e723cee50e706f5f298bbc0df39d15",
+    "workbook_monthly_inputs.csv": "9d2af2c6070d267370ad2a59c62867dfdfb99a8bfa3e39fdcd8cbb9c0842421a"
+  }
+}

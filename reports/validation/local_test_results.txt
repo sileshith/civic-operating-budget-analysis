@@ -1,0 +1,14 @@
+test_both_scenarios_against_decimal_compounding (__main__.BudgetModelTests.test_both_scenarios_against_decimal_compounding) ... ok
+test_date_cutoffs_and_database_constraints (__main__.BudgetModelTests.test_date_cutoffs_and_database_constraints) ... ok
+test_duplicate_missing_and_unknown_dimensions_rejected (__main__.BudgetModelTests.test_duplicate_missing_and_unknown_dimensions_rejected) ... ok
+test_expense_sign_and_independent_control (__main__.BudgetModelTests.test_expense_sign_and_independent_control) ... ok
+test_missing_driver_and_invalid_rate_rejected (__main__.BudgetModelTests.test_missing_driver_and_invalid_rate_rejected) ... ok
+test_negative_one_hundred_percent_growth_boundary (__main__.BudgetModelTests.test_negative_one_hundred_percent_growth_boundary) ... ok
+test_proposal_uses_matching_two_year_period (__main__.BudgetModelTests.test_proposal_uses_matching_two_year_period) ... ok
+test_reproducible_and_complete (__main__.BudgetModelTests.test_reproducible_and_complete) ... ok
+test_zero_budget_percentage_is_null (__main__.BudgetModelTests.test_zero_budget_percentage_is_null) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.109s
+
+OK

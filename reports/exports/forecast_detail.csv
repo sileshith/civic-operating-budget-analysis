@@ -1,0 +1,76 @@
+fiscal_year,department_name,account_id,account_name,flow_type,amount_cents
+2027,Finance,ALLOC,Assigned operating support,Funding,96401250
+2027,Finance,CONTRACT,Contract services,Expense,20966400
+2027,Finance,FEES,Service fees,Funding,15913500
+2027,Finance,MATERIAL,Materials,Expense,6993700
+2027,Finance,PAY,Personnel,Expense,76368600
+2027,Parks and Recreation,ALLOC,Assigned operating support,Funding,182655000
+2027,Parks and Recreation,CONTRACT,Contract services,Expense,59488000
+2027,Parks and Recreation,FEES,Service fees,Funding,88992000
+2027,Parks and Recreation,MATERIAL,Materials,Expense,41818000
+2027,Parks and Recreation,PAY,Personnel,Expense,182091250
+2027,Public Works,ALLOC,Assigned operating support,Funding,314572500
+2027,Public Works,CONTRACT,Contract services,Expense,111930000
+2027,Public Works,FEES,Service fees,Funding,68289000
+2027,Public Works,MATERIAL,Materials,Expense,42848000
+2027,Public Works,PAY,Personnel,Expense,243694000
+2028,Finance,ALLOC,Assigned operating support,Funding,98811281
+2028,Finance,CONTRACT,Contract services,Expense,21805056
+2028,Finance,FEES,Service fees,Funding,16390905
+2028,Finance,MATERIAL,Materials,Expense,7203511
+2028,Finance,PAY,Personnel,Expense,79805187
+2028,Parks and Recreation,ALLOC,Assigned operating support,Funding,187221375
+2028,Parks and Recreation,CONTRACT,Contract services,Expense,61867520
+2028,Parks and Recreation,FEES,Service fees,Funding,91661760
+2028,Parks and Recreation,MATERIAL,Materials,Expense,43072540
+2028,Parks and Recreation,PAY,Personnel,Expense,190285356
+2028,Public Works,ALLOC,Assigned operating support,Funding,322436813
+2028,Public Works,CONTRACT,Contract services,Expense,116407200
+2028,Public Works,FEES,Service fees,Funding,70337670
+2028,Public Works,MATERIAL,Materials,Expense,44133440
+2028,Public Works,PAY,Personnel,Expense,254660230
+2029,Finance,ALLOC,Assigned operating support,Funding,101281563
+2029,Finance,CONTRACT,Contract services,Expense,22677258
+2029,Finance,FEES,Service fees,Funding,16882632
+2029,Finance,MATERIAL,Materials,Expense,7419616
+2029,Finance,PAY,Personnel,Expense,83396420
+2029,Parks and Recreation,ALLOC,Assigned operating support,Funding,191901909
+2029,Parks and Recreation,CONTRACT,Contract services,Expense,64342221
+2029,Parks and Recreation,FEES,Service fees,Funding,94411613
+2029,Parks and Recreation,MATERIAL,Materials,Expense,44364716
+2029,Parks and Recreation,PAY,Personnel,Expense,198848197
+2029,Public Works,ALLOC,Assigned operating support,Funding,330497733
+2029,Public Works,CONTRACT,Contract services,Expense,121063488
+2029,Public Works,FEES,Service fees,Funding,72447800
+2029,Public Works,MATERIAL,Materials,Expense,45457443
+2029,Public Works,PAY,Personnel,Expense,266119940
+2030,Finance,ALLOC,Assigned operating support,Funding,103813602
+2030,Finance,CONTRACT,Contract services,Expense,23584348
+2030,Finance,FEES,Service fees,Funding,17389111
+2030,Finance,MATERIAL,Materials,Expense,7642204
+2030,Finance,PAY,Personnel,Expense,87149259
+2030,Parks and Recreation,ALLOC,Assigned operating support,Funding,196699457
+2030,Parks and Recreation,CONTRACT,Contract services,Expense,66915910
+2030,Parks and Recreation,FEES,Service fees,Funding,97243961
+2030,Parks and Recreation,MATERIAL,Materials,Expense,45695657
+2030,Parks and Recreation,PAY,Personnel,Expense,207796366
+2030,Public Works,ALLOC,Assigned operating support,Funding,338760176
+2030,Public Works,CONTRACT,Contract services,Expense,125906028
+2030,Public Works,FEES,Service fees,Funding,74621234
+2030,Public Works,MATERIAL,Materials,Expense,46821166
+2030,Public Works,PAY,Personnel,Expense,278095337
+2031,Finance,ALLOC,Assigned operating support,Funding,106408942
+2031,Finance,CONTRACT,Contract services,Expense,24527722
+2031,Finance,FEES,Service fees,Funding,17910784
+2031,Finance,MATERIAL,Materials,Expense,7871470
+2031,Finance,PAY,Personnel,Expense,91070976
+2031,Parks and Recreation,ALLOC,Assigned operating support,Funding,201616943
+2031,Parks and Recreation,CONTRACT,Contract services,Expense,69592546
+2031,Parks and Recreation,FEES,Service fees,Funding,100161280
+2031,Parks and Recreation,MATERIAL,Materials,Expense,47066527
+2031,Parks and Recreation,PAY,Personnel,Expense,217147202
+2031,Public Works,ALLOC,Assigned operating support,Funding,347229180
+2031,Public Works,CONTRACT,Contract services,Expense,130942269
+2031,Public Works,FEES,Service fees,Funding,76859871
+2031,Public Works,MATERIAL,Materials,Expense,48225801
+2031,Public Works,PAY,Personnel,Expense,290609627
